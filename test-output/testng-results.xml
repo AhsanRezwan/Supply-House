@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="48726" started-at="2022-07-10T02:25:16 EDT" finished-at="2022-07-10T02:26:05 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="48726" started-at="2022-07-10T02:25:16 EDT" finished-at="2022-07-10T02:26:05 EDT">
+      <class name="com.TestClass.TestClass">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.TestClass.TestClass@60438a68]" name="setUp" is-config="true" duration-ms="5343" started-at="2022-07-10T02:25:17 EDT" finished-at="2022-07-10T02:25:22 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="autoQuoteTest(java.lang.String)[pri:0, instance:com.TestClass.TestClass@60438a68]" name="autoQuoteTest" duration-ms="1903" started-at="2022-07-10T02:25:22 EDT" data-provider="ExcelData" finished-at="2022-07-10T02:25:24 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Plumbing]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- autoQuoteTest -->
+        <test-method status="PASS" signature="quttingBrowser()[pri:0, instance:com.TestClass.TestClass@60438a68]" name="quttingBrowser" is-config="true" duration-ms="166" started-at="2022-07-10T02:25:24 EDT" finished-at="2022-07-10T02:25:24 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quttingBrowser -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.TestClass.TestClass@60438a68]" name="setUp" is-config="true" duration-ms="3786" started-at="2022-07-10T02:25:24 EDT" finished-at="2022-07-10T02:25:28 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="autoQuoteTest(java.lang.String)[pri:0, instance:com.TestClass.TestClass@60438a68]" name="autoQuoteTest" duration-ms="1846" started-at="2022-07-10T02:25:28 EDT" data-provider="ExcelData" finished-at="2022-07-10T02:25:30 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Heating]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- autoQuoteTest -->
+        <test-method status="PASS" signature="quttingBrowser()[pri:0, instance:com.TestClass.TestClass@60438a68]" name="quttingBrowser" is-config="true" duration-ms="168" started-at="2022-07-10T02:25:30 EDT" finished-at="2022-07-10T02:25:30 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quttingBrowser -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.TestClass.TestClass@60438a68]" name="setUp" is-config="true" duration-ms="3788" started-at="2022-07-10T02:25:30 EDT" finished-at="2022-07-10T02:25:34 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="autoQuoteTest(java.lang.String)[pri:0, instance:com.TestClass.TestClass@60438a68]" name="autoQuoteTest" duration-ms="1996" started-at="2022-07-10T02:25:34 EDT" data-provider="ExcelData" finished-at="2022-07-10T02:25:36 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[HVAC]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- autoQuoteTest -->
+        <test-method status="PASS" signature="quttingBrowser()[pri:0, instance:com.TestClass.TestClass@60438a68]" name="quttingBrowser" is-config="true" duration-ms="135" started-at="2022-07-10T02:25:36 EDT" finished-at="2022-07-10T02:25:36 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quttingBrowser -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.TestClass.TestClass@60438a68]" name="setUp" is-config="true" duration-ms="3771" started-at="2022-07-10T02:25:36 EDT" finished-at="2022-07-10T02:25:40 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="autoQuoteTest(java.lang.String)[pri:0, instance:com.TestClass.TestClass@60438a68]" name="autoQuoteTest" duration-ms="1755" started-at="2022-07-10T02:25:40 EDT" data-provider="ExcelData" finished-at="2022-07-10T02:25:42 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[PEX]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- autoQuoteTest -->
+        <test-method status="PASS" signature="quttingBrowser()[pri:0, instance:com.TestClass.TestClass@60438a68]" name="quttingBrowser" is-config="true" duration-ms="159" started-at="2022-07-10T02:25:42 EDT" finished-at="2022-07-10T02:25:42 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quttingBrowser -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.TestClass.TestClass@60438a68]" name="setUp" is-config="true" duration-ms="3794" started-at="2022-07-10T02:25:42 EDT" finished-at="2022-07-10T02:25:45 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="autoQuoteTest(java.lang.String)[pri:0, instance:com.TestClass.TestClass@60438a68]" name="autoQuoteTest" duration-ms="1942" started-at="2022-07-10T02:25:45 EDT" data-provider="ExcelData" finished-at="2022-07-10T02:25:47 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Fittings]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- autoQuoteTest -->
+        <test-method status="PASS" signature="quttingBrowser()[pri:0, instance:com.TestClass.TestClass@60438a68]" name="quttingBrowser" is-config="true" duration-ms="130" started-at="2022-07-10T02:25:47 EDT" finished-at="2022-07-10T02:25:48 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quttingBrowser -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.TestClass.TestClass@60438a68]" name="setUp" is-config="true" duration-ms="4129" started-at="2022-07-10T02:25:48 EDT" finished-at="2022-07-10T02:25:52 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="autoQuoteTest(java.lang.String)[pri:0, instance:com.TestClass.TestClass@60438a68]" name="autoQuoteTest" duration-ms="1516" started-at="2022-07-10T02:25:52 EDT" data-provider="ExcelData" finished-at="2022-07-10T02:25:53 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Valves]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- autoQuoteTest -->
+        <test-method status="PASS" signature="quttingBrowser()[pri:0, instance:com.TestClass.TestClass@60438a68]" name="quttingBrowser" is-config="true" duration-ms="134" started-at="2022-07-10T02:25:53 EDT" finished-at="2022-07-10T02:25:53 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quttingBrowser -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.TestClass.TestClass@60438a68]" name="setUp" is-config="true" duration-ms="3832" started-at="2022-07-10T02:25:53 EDT" finished-at="2022-07-10T02:25:57 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="autoQuoteTest(java.lang.String)[pri:0, instance:com.TestClass.TestClass@60438a68]" name="autoQuoteTest" duration-ms="1861" started-at="2022-07-10T02:25:57 EDT" data-provider="ExcelData" finished-at="2022-07-10T02:25:59 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Thermostats]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- autoQuoteTest -->
+        <test-method status="PASS" signature="quttingBrowser()[pri:0, instance:com.TestClass.TestClass@60438a68]" name="quttingBrowser" is-config="true" duration-ms="167" started-at="2022-07-10T02:25:59 EDT" finished-at="2022-07-10T02:25:59 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quttingBrowser -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.TestClass.TestClass@60438a68]" name="setUp" is-config="true" duration-ms="3724" started-at="2022-07-10T02:25:59 EDT" finished-at="2022-07-10T02:26:03 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="autoQuoteTest(java.lang.String)[pri:0, instance:com.TestClass.TestClass@60438a68]" name="autoQuoteTest" duration-ms="1924" started-at="2022-07-10T02:26:03 EDT" data-provider="ExcelData" finished-at="2022-07-10T02:26:05 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Electrical]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- autoQuoteTest -->
+        <test-method status="PASS" signature="quttingBrowser()[pri:0, instance:com.TestClass.TestClass@60438a68]" name="quttingBrowser" is-config="true" duration-ms="171" started-at="2022-07-10T02:26:05 EDT" finished-at="2022-07-10T02:26:05 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quttingBrowser -->
+      </class> <!-- com.TestClass.TestClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
